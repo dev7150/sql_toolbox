@@ -1,0 +1,3 @@
+# sql_toolbox
+
+This repo contains a selection of SQL Server Queries which can help understand the data in it, sizes, and various other tools for ingestion/partition...
